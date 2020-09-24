@@ -1,0 +1,11 @@
+app.gd.csg.cn                 	 
+www.gd.csg.cn                 	     
+pm.gd.csg.cn                  	 
+vpn3.gd.csg.cn                	 
+mail.gd.csg.cn                	 
+vpn1.gd.csg.cn                	 
+travel.gd.csg.cn              	 
+vpn2.gd.csg.cn                	 
+mx2.gd.csg.cn                 	     
+mx.gd.csg.cn                  	 
+vpn.gd.csg.cn                 	 

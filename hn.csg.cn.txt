@@ -1,0 +1,9 @@
+pm.hn.csg.cn                  	 
+test.hn.csg.cn                	 
+www.hn.csg.cn                 	 
+app.hn.csg.cn                 	 
+oa.hn.csg.cn                  	 
+smtp.hn.csg.cn                	 
+mail.hn.csg.cn                	 
+mobile.hn.csg.cn              	 
+pop.hn.csg.cn                 	 

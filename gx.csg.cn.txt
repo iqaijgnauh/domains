@@ -1,0 +1,11 @@
+app.gx.csg.cn         
+pm.gx.csg.cn
+yqtb.gx.csg.cn
+ywvpn.gx.csg.cn
+vpn1.gx.csg.cn                
+vpn2.gx.csg.cn                  
+vpn3.gx.csg.cn
+weboa.gx.csg.cn                  
+www.gx.csg.cn                 
+mail.gx.csg.cn                
+travel.gx.csg.cn
